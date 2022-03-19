@@ -3,12 +3,16 @@
 MIT xPro® Professional Certificate in Coding Boot Camp Project: Real Time Bus Tracker. This entails tracking bus stops between the MIT Campus and Harvard Campus located in Boston, Massachusetts.
 
 ## Installation
+mapboxgl: JavaScript Library that is part of the mapbox ecosystem. 
 
 ## Usage
+This project demonstrated how to work with the document Object Model (DOM) to add animation to maps. Go to mapbox.com to obtain a free API key to test out mapbox. Mapbox is an open-source platform which allows developers to create and display (a limited number of times) maps on a web page. Using the mapboxgl JS libary, developers can add customizations to their maps such as markers as in the case of this boot camp project.
 
 ## Support
+Go to: https://docs.mapbox.com/mapbox-gl-js/api/ for documentation.
 
 ## Roadmap
+This project will be presented as a part of student boot camp portfolio.
 
 ## MIT License
 
