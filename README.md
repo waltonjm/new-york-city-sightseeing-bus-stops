@@ -1,6 +1,6 @@
-# **New York City Sightseeing Bus Stops**
+# New York City Sightseeing Bus Stops
 ## Description
-MIT xPro® Professional Certificate in Coding Boot Camp Project: Real Time Bus Tracker. This repo modifies the boot camp project to show popular sightseeing bus stops around New York City.
+MIT xPro® Professional Certificate in Coding Boot Camp Project: Real Time Bus Tracker. This repo is refactored from the boot camp realt time bus tracking project to show popular sightseeing bus stops around New York City.
 
 ## Installation
 mapboxgl: JavaScript (JS) Library that is part of the mapbox ecosystem. 
@@ -15,4 +15,5 @@ Google: Longitude, Latitudes (Note mapboxg1 standard is lng, lat)
 
 ## Roadmap
 This project was completed within the first 4 weeks of the intensive boot camp as is required to be presented as a part of student boot camp portfolio. It is anticipated, and provided time is available, that this project will be improved upon as skill sets progress through the boot camp.  
+
 <img src="newyorkcity-mapanimation-screenshot.png" width='600'/>
