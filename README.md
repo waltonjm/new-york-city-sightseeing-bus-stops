@@ -1,4 +1,4 @@
-# **New York City Sightseeing Bus Stopsn**
+# **New York City Sightseeing Bus Stops**
 ## Description
 MIT xPro® Professional Certificate in Coding Boot Camp Project: Real Time Bus Tracker. This repo modifies the boot camp project to show popular sightseeing bus stops around New York City.
 
